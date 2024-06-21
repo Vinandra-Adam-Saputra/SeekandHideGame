@@ -51,7 +51,7 @@ Contributions are always welcome. Please fork this repository, make your changes
 
 ## License
 
-[Add license information here]
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
